@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UmmeZaiba-i
 - 👀 I’m interested in Frontend Frameworks in web development
-- 🌱 I’m currently learning React, TypeScript, Redux, Redux-ToolKit
-- 📫 How to reach me ... well teach me how to resolve conflicts
+- 🌱 I’m currently learning React, TypeScript, Redux, Redux-ToolKit, Antd
+- 📫 How to reach me ... well teach me how to go beyond just using frameworks and become a well-rounded developer.
 - ⚡ Fun fact: ... 10% writing code and 90% figuring out why it's not working
 
 <!---
